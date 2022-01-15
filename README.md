@@ -10,3 +10,5 @@ HTML: semântico, nav, menu, section, main, aside;
 CSS: display: grid, grid-row, grid-column, gap, cursor, overflow: scroll, display: flex, flex-direction;
 
 ## preview
+
+![preview](https://github.com/scaramuzza/nlwHeat-2021-Rocketseat/blob/main/nlwHeat-2021-Rocketseat.png)
