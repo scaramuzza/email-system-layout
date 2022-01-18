@@ -3,6 +3,10 @@ Layout de um gerenciador de e-mails utilizando HTML e aplicando as técnicas *gr
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
+## license
+
+Este código tem o objetivo único que mostrar ao mercado minha evolução como estudante de programação, logo, NÃO é permitido a comercialização, modificação, distribuição e uso privado;
+
 ## keywords
 
 HTML: semântico, nav, menu, section, main, aside;
