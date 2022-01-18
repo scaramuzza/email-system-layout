@@ -5,7 +5,7 @@ Layout de um gerenciador de e-mails utilizando HTML e aplicando as técnicas *gr
 
 ## license
 
-Este código tem o objetivo único de mostrar ao mercado minha evolução como desenvolvedor de software, logo, <b>NÃO<b> é permitido a comercialização, modificação, distribuição e uso privado;
+Este código tem o objetivo único de mostrar ao mercado minha evolução como desenvolvedor de software, logo, <b>NÃO</b> é permitido a comercialização, modificação, distribuição e uso privado;
 
 ## keywords
 
